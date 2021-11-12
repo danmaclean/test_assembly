@@ -1,0 +1,5 @@
+- "interlaced reads":
+  - "/Users/macleand/workshop/SRR4434292.fastq"
+  "number": !!int "1"
+  "orientation": "fr"
+  "type": "paired-end"
